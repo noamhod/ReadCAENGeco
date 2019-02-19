@@ -1,9 +1,9 @@
 # ReadCAENGeco
 Script to read GECO log files from CAEN power supply modules.
 The GECO software runs on windows only unfortunately.
-In principle the script works out of the box on linux/mac.
+In principle the script works out of the box on linux/mac if you have python and ROOT.
 If you copy the log files to these machines then you should only execute the script.
-If you can only run on windows, the points below describe how to do this...
+If you can only run on windows, the points below describe how to do this.
 
 - Install VirtualBox
 - Create a new image and install Ubuntu
