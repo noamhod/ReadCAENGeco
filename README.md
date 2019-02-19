@@ -26,9 +26,10 @@ To setup root on the Ubuntu guest:
     Setup ROOT:        source setup.sh
 
 To run the script, just do for example:
-  python readCAEN.py  -f  your-GECO-log-file-name.log  -c 4-7  -l  100
-  python readCAEN.py  -f  your-GECO-log-file-name.log  -c 4-7
+- python readCAEN.py  -f  your-GECO-log-file-name.log  -c 4-7  -l  100
+- python readCAEN.py  -f  your-GECO-log-file-name.log  -c 4-7
 
+The parameters are:
 - the -f parameter is your data log file name from GECO.
 - the -c parameter is the channel range used in your power supply, e.g. 0-3, 4-7, etc.
 - the -l parameter is controlling how many x-labels are printed in the plots.
