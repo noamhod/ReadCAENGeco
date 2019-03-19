@@ -6,6 +6,7 @@ If you copy the log files to these machines then you should only execute the scr
 If you can only run on windows, the points below describe how to do this.
 
 - Install VirtualBox
+- Download Ubuntu iso (which has a corresponding ROOT version)
 - Create a new image and install Ubuntu
 - after installing Ubuntu
     - get ROOT from the main repository...
