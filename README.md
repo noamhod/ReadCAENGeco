@@ -9,7 +9,7 @@ If you can only run on windows, the points below describe how to do this.
 - Download Ubuntu iso (which has a corresponding ROOT version)
 - Create a new image and install Ubuntu
 - after installing Ubuntu
-    - get ROOT from the main repository...
+    - download ROOT from its main repository and unpack
     - sudo apt-get install libc++
     - sudo apt install python2.7 python-pip
     - sudo apt-get install libtbb-dev
